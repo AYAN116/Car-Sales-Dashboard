@@ -3,8 +3,7 @@
 
 # Car Sales and Marketing Dashboard
 
-### Dashboard : https://app.powerbi.com/view?r=eyJrIjoiYmU2NTYyNWEtNWVkOS00NGJmLWIzNDktNjE3ZTQ2N2JiYTAzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection
-
+### [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYmU2NTYyNWEtNWVkOS00NGJmLWIzNDktNjE3ZTQ2N2JiYTAzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
 This project showcases an interactive and visually appealing dashboard designed to provide an in-depth analysis of car sales and marketing performance. It offers stakeholders actionable insights into sales trends, customer preferences, and market demand. By leveraging data visualizations, the dashboard facilitates strategic decision-making for automotive brands.
 
 # Brand-Specific Insights
